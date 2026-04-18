@@ -4,7 +4,7 @@
 PalearumLab è la versione nicese del FabLab, un luogo aperto a tutti coloro che sono animati dalla curiosità di guardare dietro alla facciata delle cose e dalla voglia di sperimentare.  
 Un luogo dove ci si scambiano idee, si fanno esperienze, si condivide conoscenza e si impara insieme.  
 Dove ognuno ha la possibilità di sviluppare le proprie attitudini e la propria creatività nel campo della scienza, dell’arte, dell’informatica, della tecnologia con un occhio alla cultura e alla filosofia, per non farsi mancare niente e provare a creare una propria visione del mondo.  
-Dove si può anche andare a “fare un giro” e vedere chi c’ė quando non si ha di meglio da fare.  
+Dove si può anche andare a “fare un giro” e vedere chi c’ė e trascorrere un po' di tempo parlando di un nuovo progetto, della partita della sera prima o ... di filosofia e dei massimi sistemi.  
 
 ### Cos'è un FabLab
 
@@ -16,8 +16,8 @@ Il FabLab è tante cose, diverse tra di loro, non necessariamente perfettamente 
  
 ### Una nuova alfabetizzazione   
 La rivoluzione digitale ha lasciato indietro molte perone e tante altre, tra cui moltissimi giovani, rischiano di essere lasciate indietro.  
-Se da un lato quasi tutti utilizzano abitualmente Internet, motori di ricerca o, ancor dí più, social network e applicazioni di **comunicazione** online (da Whatsapp a Instagram a TikTok), d’altro lato quasi nessuno conoscere le basi di questa tecnologia che sta pervadendo ogni aspetto della società e della nostra esistenza. Occorre conoscere le basi su cui si regge questa tecnologia affinché possiamo imparare ad utilizzarla consapevolmente e vantaggiosamente (non necessariamente in termini economici) anziché adagiarvisi passivamente, a dominarla anziché a subirne gli effetti.  
-Si tratta di fare scelte più consapevoli e provare ad immaginare come dovrebbe essere il mondo che vogliamo anzichè lasciare che pochi altri lo facciano per noi, a causa della nostra **ignoranza**.  
+Se da un lato quasi tutti utilizzano abitualmente Internet, motori di ricerca o, ancor dí più, social network e applicazioni di _comunicazione_ online (da Whatsapp a Instagram a TikTok), d’altro lato quasi nessuno conoscere le basi di questa tecnologia che sta pervadendo ogni aspetto della società e della nostra esistenza. Occorre conoscere le basi su cui si regge questa tecnologia affinché possiamo imparare ad utilizzarla consapevolmente e vantaggiosamente (non necessariamente in termini economici) anziché adagiarvisi passivamente, a dominarla anziché a subirne gli effetti.  
+Si tratta di fare scelte più consapevoli e provare ad immaginare come dovrebbe essere il mondo che vogliamo anzichè lasciare che pochi altri lo facciano per noi, a causa della nostra _ignoranza_.  
 Chi oggi non ha idea di come funzionano “dietro allo schermo” un computer (uno smartphone è un computer), internet, le piattaforme social, l’intelligenza artificiale non può compiere scelte consapevoli.  
 Non è necessario diventare esperti, ma occorre avere almeno qualche nozione di base per comprendere a livello generale come funzionano questi sistemi che fanno parte integrante del nostro mondo.  
   
@@ -56,7 +56,30 @@ La scuola di oggi non ha le risorse e gli strumenti per affrontare da sola quest
 Le famiglie non hanno i mezzi, il tempo, le conoscenze.  
   
 ### Oltre i confini delle discipline  
-Un percorso di apprendimento progressivo attraverso il quale si ripercorrono le tappe con cui si è sviluppato il sapere e il saper fare dell’umanità nel corso dei millenni.  
+Vogliamo proporre esperienze _trasversali_, ad esempio seguendo un ideale percorso di apprendimento che ripercorre le tappe con cui si è sviluppato il sapere e il saper fare dell’umanità nel corso dei millenni.
+
+## Percorsi e progetti
+Partendo dai primi passi nell'universo STEM per arrivare a creazioni di livello professionale, che si tratti di "_performance_" artistiche o di applicazioni di interesse pratico 
+
+### STEM
+
+- Physical computing
+
+### Agricoltura
+
+- Monitoraggio piante
+- Cyber-serra
+
+### Cultura nicese
+
+- Vocabolario digitale del dialetto nicese
+  
+  + italiano - nicese
+  + inglese - nicese
+
+- Traduttore dialetto nicese: sito web e app per dispositivi mobili
+
+
   
 ### Favorire la pluralità di punti di vista  
 Monocolture, si perdono varierà in favore di poche specie ritenute più redditizie, che sul lungo termine si indeboliscono  
