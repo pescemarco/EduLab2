@@ -5,8 +5,15 @@ PalearumLab è la versione nicese del FabLab, un luogo aperto a tutti coloro che
 Un luogo dove ci si scambiano idee, si fanno esperienze, si condivide conoscenza e si impara insieme.  
 Dove ognuno ha la possibilità di sviluppare le proprie attitudini e la propria creatività nel campo della scienza, dell’arte, dell’informatica, della tecnologia con un occhio alla cultura e alla filosofia, per non farsi mancare niente e provare a creare una propria visione del mondo.  
 Dove si può anche andare a “fare un giro” e vedere chi c’ė quando non si ha di meglio da fare.  
-  
-## Perché   
+
+### Cos'è un FabLab
+
+Un esempio: il [FabLab di lab121](https://www.lab121.org/fablab-alessandria/) ad Alessandria
+
+Il FabLab è tante cose, diverse tra di loro, non necessariamente perfettamente sincronizzate. Il FabLab è uno spazio aperto al pubblico, un luogo di socializzazione e incontro. È un luogo di produzione attraverso l’utilizzo di un set di macchine standard che consente la progettazione, prototipazione e realizzazione, attraverso la stampa 3D, di oggetti e manufatti. È un luogo di ricerca, di svago, di relazione. Un po’ officina, un po’ laboratorio di ricerca e sviluppo, un po’ centro sociale, il FabLab è un network di realtà presenti in decine di paesi al mondo, da Parigi a New York passando per Kabul fino a Pavia e Parma. Il FabLab è un luogo sempre uguale a se stesso, le macchine devono essere quelle previste, ma inevitabilmente diverso a seconda del territorio e della comunità che lo ospita. Nato presso l’MIT di Boston, grazie al lavoro seminale di Neil Gershenfeld, fonda la sua forza sulla filosofia di azione locale attraverso un network internazionale di scambio e conoscenza. Vuole favorire la creatività e il DIY (do it yourself) attraverso l’accessibilità per tutti alle macchine di fabbricazione digitale e promuove un nuovo modello di impresa diffusa, legata al territorio fortemente sociale (non a caso si parla di Open Manufacturing e di Quarta Rivoluzione industriale).
+
+## Perché
+ 
 ### Una nuova alfabetizzazione   
 La rivoluzione digitale ha lasciato indietro molte perone e tante altre, tra cui moltissimi giovani, rischiano di essere lasciate indietro.  
 Se da un lato quasi tutti utilizzano abitualmente Internet, motori di ricerca o, ancor dí più, social network e applicazioni di **comunicazione** online (da Whatsapp a Instagram a TikTok), d’altro lato quasi nessuno conoscere le basi di questa tecnologia che sta pervadendo ogni aspetto della società e della nostra esistenza. Occorre conoscere le basi su cui si regge questa tecnologia affinché possiamo imparare ad utilizzarla consapevolmente e vantaggiosamente (non necessariamente in termini economici) anziché adagiarvisi passivamente, a dominarla anziché a subirne gli effetti.  
@@ -14,17 +21,21 @@ Si tratta di fare scelte più consapevoli e provare ad immaginare come dovrebbe 
 Chi oggi non ha idea di come funzionano “dietro allo schermo” un computer (uno smartphone è un computer), internet, le piattaforme social, l’intelligenza artificiale non può compiere scelte consapevoli.  
 Non è necessario diventare esperti, ma occorre avere almeno qualche nozione di base per comprendere a livello generale come funzionano questi sistemi che fanno parte integrante del nostro mondo.  
   
-### Riscoprire le origini  
+### Riscoprire le origini
+
 L’evoluzione della società negli ultimi cento anni, la crescente specializzazione delle professioni e delle conoscenze, il cambiamento dei modelli di vita e dell’organizzazione famigliare ci ha portato a perdere alcune conoscenze di base, in particolare alcune capacità manuali, che erano largamente diffuse tra i nostri nonni e bisnonni e che oggi sono **patrimonio** di pochi.  
 Capacità, conoscenze pratiche che sono state per centinaia di anni patrimonio comune sono state praticamente azzerate nell’arco di pochi decenni. Rammendare, lavorare a maglia, fare l’impasto per il pane, riparare un utensile rotto, accendere il fuoco nel camino o nella stufa erano attività necessarie per la sopravvivenza, poi divenute solamente utili e infine semplicemente non più necessarie nella vita quotidiana della maggior parte di noi, e quindi destinate a perdersi nella memoria.  
   
   
-## Come  
-### Imparare facendo  
+## Come
+
+### Imparare facendo
+
 L’esperienza è alla base della conoscenza.  
   
   
-### Valorizzare il passato e le esperienze di base  
+### Valorizzare il passato e le esperienze di base
+
 “Siamo nani sulle spalle di giganti”. Questa idea suggerita anticamente da Prisciano nel V secolo secondo U. Eco, ripresa da Bertrando di Chartres nel XII, e da Isaac Newton, non fa parte del nostro sentire.  
 Non ci ricordiamo (a livello collettivo) chi	eravamo e da dove veniamo, perdiamo pezzi di conoscenza e di coscienza collettiva.  
   
