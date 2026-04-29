@@ -16,18 +16,22 @@
 
 Le associazioni del territorio possono attivare collaborazioni, suggerire e partecipare a progetti svolti presso il *PalearumLab*.
 
+- ATPICA
 - Accademia di cultura nicese L'ERCA
+- ProLoco di Nizza Monferrato
 - Fondazione Oratorio  
+- Istituto Nicola Pellati
+- Scuola media statale C.A. Dalla Chiesa
 - INSG
 
 ## Aziende
 
 Aziende locali con vocazione all'innovazione e attenzione allo sviluppo a 360 gradi delterritorio possono contribuire attivamente al mantenimento e al funzionamento della struttura, potendo attingere a servizi, competenze, attrezzature
 
-- Distillerie Berta  
-- Biglia  
 - Arol  
 - Sinergo  
+- Distillerie Berta  
+- Biglia  
 - Tekno  
 
 ## Formatori (spostare in altra sezione)
