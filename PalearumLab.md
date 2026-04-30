@@ -63,6 +63,19 @@ Le famiglie non hanno i mezzi, il tempo, le conoscenze.
 ### Oltre i confini delle discipline  
 Vogliamo proporre esperienze _trasversali_, ad esempio seguendo un ideale percorso di apprendimento che ripercorre le tappe con cui si è sviluppato il sapere e il saper fare dell’umanità nel corso dei millenni.
 
+  
+### Favorire la pluralità di punti di vista  
+Vogliamo contrastare l’appiattimento sulle posizioni prevalenti, in campo culturale, ideologico, tecnologico, mantenendo vivo l’interesse per varie forme di alternative.
+In tutti i campi, la mancanza di alternative rispetto a soluzioni dominanti crea vulnerabilit a livello di sistema, che sfuggono a una visione di breve periodo.
+
+Alcuni esempi
+
+- in agricoltura si perdono varierà considerate poco competitive in favore di poche specie ritenute più redditizie, che sul lungo termine portano a vulnerabilità e richiedono il ricorso a pesticidi o fitofarmaci
+- In campo tecnologico, lo sviluppo indirizzato in una sola direzione trascurando percorsi alternativi (NYT ricerca su AI in USA indirizzata tutta verso general AI trascurando altri filoni e conducendo potenzialmente a un vicolo cieco)
+
+Decentralizzare il controllo delle infrastrutture e dei processi.
+
+
 ## Percorsi e progetti
 Partendo dai primi passi nell'universo STEM per arrivare a creazioni di livello professionale, che si tratti di "_performance_" artistiche o di applicazioni di interesse pratico 
 
@@ -85,17 +98,34 @@ Partendo dai primi passi nell'universo STEM per arrivare a creazioni di livello 
 - Traduttore dialetto nicese: sito web e app per dispositivi mobili
 
 
-  
-### Favorire la pluralità di punti di vista  
-Vogliamo contrastare l’appiattimento sulle posizioni prevalenti, in campo culturale, ideologico, tecnologico, mantenendo vivo l’interesse per varie forme di alternative.
-In tutti i campi, la mancanza di alternative rispetto a soluzioni dominanti crea vulnerabilit a livello di sistema, che sfuggono a una visione di breve periodo.
+## Spazi
 
-Alcuni esempi
+### Fisici
 
-- in agricoltura si perdono varierà considerate poco competitive in favore di poche specie ritenute più redditizie, che sul lungo termine portano a vulnerabilità e richiedono il ricorso a pesticidi o fitofarmaci
-- In campo tecnologico, lo sviluppo indirizzato in una sola direzione trascurando percorsi alternativi (NYT ricerca su AI in USA indirizzata tutta verso general AI trascurando altri filoni e conducendo potenzialmente a un vicolo cieco)
+Reception
 
-Decentralizzare il controllo delle infrastrutture e dei processi.
+Sala riunioni (capienza 20 persone)
+
+Area Coworking
+
+Laboratorio Computer
+
+Laboratorio Maker
+
+Saletta brainstorming
+
+Saletta di lettura con piccola biblioteca (con libri di carta)
+
+Angolo relax con piccola cucina
+
+### Virtuali
+
+Biblioteca digitale
+
+Repository GitHub (progetti della community)
+
+Sito web / blog / social
+
 
 ## Riferimenti
 
