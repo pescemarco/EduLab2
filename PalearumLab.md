@@ -8,13 +8,35 @@ Dove si può anche andare a “fare un giro” e vedere chi c’ė e trascorrere
 
 ### Cos'è un FabLab
 
-Un esempio: il [FabLab di lab121](https://www.lab121.org/fablab-alessandria/) ad Alessandria
+L'idea del _Fabrication Laboratory_, nata presso il MIT di Boston grazie al lavoro di Neil Gershenfeld, si fonda sulla filosofia di azione locale attraverso un network internazionale di scambio e conoscenza. Vuole favorire la creatività e il DIY (do it yourself) attraverso l’accessibilità per tutti alle macchine di fabbricazione digitale e promuove un nuovo modello di impresa diffusa, legata al territorio, fortemente sociale. 
 
-Il FabLab è tante cose, diverse tra di loro, non necessariamente perfettamente sincronizzate. Il FabLab è uno spazio aperto al pubblico, un luogo di socializzazione e incontro. È un luogo di produzione attraverso l’utilizzo di un set di macchine standard che consente la progettazione, prototipazione e realizzazione, attraverso la stampa 3D, di oggetti e manufatti. È un luogo di ricerca, di svago, di relazione. Un po’ officina, un po’ laboratorio di ricerca e sviluppo, un po’ centro sociale, il FabLab è un network di realtà presenti in decine di paesi al mondo, da Parigi a New York passando per Kabul fino a Pavia e Parma. Il FabLab è un luogo sempre uguale a se stesso, le macchine devono essere quelle previste, ma inevitabilmente diverso a seconda del territorio e della comunità che lo ospita. Nato presso l’MIT di Boston, grazie al lavoro seminale di Neil Gershenfeld, fonda la sua forza sulla filosofia di azione locale attraverso un network internazionale di scambio e conoscenza. Vuole favorire la creatività e il DIY (do it yourself) attraverso l’accessibilità per tutti alle macchine di fabbricazione digitale e promuove un nuovo modello di impresa diffusa, legata al territorio fortemente sociale (non a caso si parla di Open Manufacturing e di Quarta Rivoluzione industriale).
+I principi del FabLab sono contenuti nella [Fab charter MIT](https://fab.cba.mit.edu/about/) che costituisce il "manifesto" della rete dei FabLab.
 
-## Perché
+L'Italia entra nella rete internazionale FabLab nel 2011 grazie a [FabLab Torino](https://fablabtorino.org/)
+
+_"Il primo laboratorio di fabbricazione digitale italiano apre a Torino nel 2011 con il nome di Fablab Italia,
+in occasione della mostra Stazione Futuro alle Officine Grandi Riparazioni per i 150 anni dell'Unità d'Italia.
+Nel 2012 il laboratorio viene riaperto, questa volta in pianta stabile, negli spazi di Toolbox Coworking:
+nasce Fablab Torino!"_
+
+_"Fablab Torino è un’associazione culturale, un laboratorio di fabbricazione digitale e un makerspace.
+Qui trovi gli spazi, gli strumenti e le persone di cui hai bisogno per trasformare i tuoi progetti in realtà."_
+
+
+Un altro esempio di FabLab vicino al nostro territorio è costituito da [FabLab di lab121](https://www.lab121.org/fablab-alessandria/) ad Alessandria
+
+_"Il FabLab è tante cose, diverse tra di loro, non necessariamente perfettamente sincronizzate. Il FabLab è uno spazio aperto al pubblico, un luogo di socializzazione e incontro. È un luogo di produzione attraverso l’utilizzo di un set di macchine standard che consente la progettazione, prototipazione e realizzazione, attraverso la stampa 3D, di oggetti e manufatti. È un luogo di ricerca, di svago, di relazione. Un po’ officina, un po’ laboratorio di ricerca e sviluppo, un po’ centro sociale, il FabLab è un network di realtà presenti in decine di paesi al mondo, da Parigi a New York passando per Kabul fino a Pavia e Parma. Il FabLab è un luogo sempre uguale a se stesso, le macchine devono essere quelle previste, ma inevitabilmente diverso a seconda del territorio e della comunità che lo ospita. Nato presso l’MIT di Boston, grazie al lavoro seminale di Neil Gershenfeld, fonda la sua forza sulla filosofia di azione locale attraverso un network internazionale di scambio e conoscenza. Vuole favorire la creatività e il DIY (do it yourself) attraverso l’accessibilità per tutti alle macchine di fabbricazione digitale e promuove un nuovo modello di impresa diffusa, legata al territorio fortemente sociale (non a caso si parla di Open Manufacturing e di Quarta Rivoluzione industriale)."_
+
+
+
+## Perché PalearumLab
  
-### Una nuova alfabetizzazione   
+### Un nuovo umanesimo
+
+
+
+### Una nuova alfabetizzazione
+   
 La rivoluzione digitale ha lasciato indietro molte perone e tante altre, tra cui moltissimi giovani, rischiano di essere lasciate indietro.  
 Se da un lato quasi tutti utilizzano abitualmente Internet, motori di ricerca o, ancor dí più, social network e applicazioni di _comunicazione_ online (da Whatsapp a Instagram a TikTok), d’altro lato quasi nessuno conoscere le basi di questa tecnologia che sta pervadendo ogni aspetto della società e della nostra esistenza. Occorre conoscere le basi su cui si regge questa tecnologia affinché possiamo imparare ad utilizzarla consapevolmente e vantaggiosamente (non necessariamente in termini economici) anziché adagiarvisi passivamente, a dominarla anziché a subirne gli effetti.  
 Si tratta di fare scelte più consapevoli e provare ad immaginare come dovrebbe essere il mondo che vogliamo anzichè lasciare che pochi altri lo facciano per noi, a causa della nostra _ignoranza_.  
