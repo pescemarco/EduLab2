@@ -1,14 +1,15 @@
-# PalearumLab (un po’ FabLab un po’ …)  
-  
-## Cos’è   
+# PalearumLab (un po’ FabLab un po’ …)
+
+## Cos’è
+
 PalearumLab è la versione nicese del FabLab, un luogo aperto a tutti coloro che sono animati dalla curiosità di guardare dietro alla facciata delle cose e dalla voglia di sperimentare.  
 Un luogo dove ci si scambiano idee, si fanno esperienze, si condivide conoscenza e si impara insieme.  
 Dove ognuno ha la possibilità di sviluppare le proprie attitudini e la propria creatività nel campo della scienza, dell’arte, dell’informatica, della tecnologia con un occhio alla cultura e alla filosofia, per non farsi mancare niente e provare a creare una propria visione del mondo.  
-Dove si può anche andare a “fare un giro” e vedere chi c’ė e trascorrere un po' di tempo parlando di un nuovo progetto, della partita della sera prima o ... di filosofia e dei massimi sistemi.  
+Dove si può anche andare a “fare un giro” e vedere chi c’ė e trascorrere un po' di tempo parlando di un nuovo progetto, della partita della sera prima o ... di filosofia e dei massimi sistemi.
 
 ### Cos'è un FabLab
 
-L'idea del _Fabrication Laboratory_, nata presso il MIT di Boston grazie al lavoro di Neil Gershenfeld, si fonda sulla filosofia di azione locale attraverso un network internazionale di scambio e conoscenza. Vuole favorire la creatività e il DIY (do it yourself) attraverso l’accessibilità per tutti alle macchine di fabbricazione digitale e promuove un nuovo modello di impresa diffusa, legata al territorio, fortemente sociale. 
+L'idea del _Fabrication Laboratory_, nata presso il MIT di Boston grazie al lavoro di Neil Gershenfeld, si fonda sulla filosofia di azione locale attraverso un network internazionale di scambio e conoscenza. Vuole favorire la creatività e il DIY (do it yourself) attraverso l’accessibilità per tutti alle macchine di fabbricazione digitale e promuove un nuovo modello di impresa diffusa, legata al territorio, fortemente sociale.
 
 I principi del FabLab sono contenuti nella [Fab charter MIT](https://fab.cba.mit.edu/about/) che costituisce il "manifesto" della rete dei FabLab.
 
@@ -22,34 +23,31 @@ nasce Fablab Torino!"_
 _"Fablab Torino è un’associazione culturale, un laboratorio di fabbricazione digitale e un makerspace.
 Qui trovi gli spazi, gli strumenti e le persone di cui hai bisogno per trasformare i tuoi progetti in realtà."_
 
-
 Un altro esempio di FabLab vicino al nostro territorio è costituito da [FabLab di lab121](https://www.lab121.org/fablab-alessandria/) ad Alessandria
 
 _"Il FabLab è tante cose, diverse tra di loro, non necessariamente perfettamente sincronizzate. Il FabLab è uno spazio aperto al pubblico, un luogo di socializzazione e incontro. È un luogo di produzione attraverso l’utilizzo di un set di macchine standard che consente la progettazione, prototipazione e realizzazione, attraverso la stampa 3D, di oggetti e manufatti. È un luogo di ricerca, di svago, di relazione. Un po’ officina, un po’ laboratorio di ricerca e sviluppo, un po’ centro sociale, il FabLab è un network di realtà presenti in decine di paesi al mondo, da Parigi a New York passando per Kabul fino a Pavia e Parma. Il FabLab è un luogo sempre uguale a se stesso, le macchine devono essere quelle previste, ma inevitabilmente diverso a seconda del territorio e della comunità che lo ospita. Nato presso l’MIT di Boston, grazie al lavoro seminale di Neil Gershenfeld, fonda la sua forza sulla filosofia di azione locale attraverso un network internazionale di scambio e conoscenza. Vuole favorire la creatività e il DIY (do it yourself) attraverso l’accessibilità per tutti alle macchine di fabbricazione digitale e promuove un nuovo modello di impresa diffusa, legata al territorio fortemente sociale (non a caso si parla di Open Manufacturing e di Quarta Rivoluzione industriale)."_
 
-
-
 ## Perché PalearumLab
- 
+
 ### Un nuovo umanesimo
 
-Rimettere l'essere umano al centro dell'idea di sviluppo, orientando le scelte in base alle ricadute che avranno sulla vita delle persone e delle comunità nel breve e nel lungo periodo è essenziale. 
+Rimettere l'essere umano al centro dell'idea di sviluppo, orientando le scelte in base alle ricadute che avranno sulla vita delle persone e delle comunità nel breve e nel lungo periodo è essenziale.
 
-_“Lo sviluppo è la #libertà  di **essere**  e di **fare**.”_ (Amartya #Sen , economista Premio Nobel)
+_“Lo sviluppo è la #libertà di **essere** e di **fare**.”_ (Amartya #Sen , economista Premio Nobel)
 In queste parole è racchiuso tutto ciò che ogni bambino dovrebbe trovare nella propria vita: la libertà di crescere secondo i propri talenti, non secondo i limiti del contesto in cui nasce.
 
 Una parte importante di questo percorso passa attraverso una _nuova alfabetizzazione_.
 
 ### Una nuova alfabetizzazione
-   
+
 La rivoluzione digitale ha lasciato indietro molte perone e tante altre, tra cui moltissimi giovani, rischiano di essere lasciate indietro.  
 Se da un lato quasi tutti utilizzano abitualmente Internet, motori di ricerca o, ancor dí più, social network e applicazioni di _comunicazione_ online (da Whatsapp a Instagram a TikTok), d’altro lato quasi nessuno conoscere le basi di questa tecnologia che sta pervadendo ogni aspetto della società e della nostra esistenza. Occorre conoscere le basi su cui si regge questa tecnologia affinché possiamo imparare ad utilizzarla consapevolmente e vantaggiosamente (non necessariamente in termini economici) anziché adagiarvisi passivamente, a dominarla anziché a subirne gli effetti.  
 Si tratta di fare scelte più consapevoli e provare ad immaginare come dovrebbe essere il mondo che vogliamo anzichè lasciare che pochi altri lo facciano per noi, a causa della nostra _ignoranza_.  
 Chi oggi non ha idea di come funzionano “dietro allo schermo” un computer (uno smartphone è un computer), internet, le piattaforme social, l’intelligenza artificiale non può compiere scelte consapevoli.  
-Non è necessario diventare esperti, ma occorre avere almeno qualche nozione di base per comprendere a livello generale come funzionano questi sistemi che fanno parte integrante del nostro mondo. 
+Non è necessario diventare esperti, ma occorre avere almeno qualche nozione di base per comprendere a livello generale come funzionano questi sistemi che fanno parte integrante del nostro mondo.
 Avvicinarsi al “coding” e al “Physical computing” può essere un modo creativo e divertente per creare queste basi [8].
 
-Un'altra parte forse altrettanto importante consiste nel mantenere l'identità della nostra comunità, che per molti significa 
+Un'altra parte forse altrettanto importante consiste nel mantenere l'identità della nostra comunità, che per molti significa
 
 ### Riscoprire le origini
 
@@ -70,30 +68,22 @@ Queste esperienze costituiscono un patrimonio da salvaguardare, come la scoperta
 In tutto ciò è difficile avere una visione d’insieme e forse questo è il limite da superare per arrivare a nuove intuizioni e scoperte di portata rivoluzionaria come lo sono state la teoria dell’elettromagnetismo, la teoria della relatività generale o la meccanica quantistica.
 In tutto ciò è fondamentale non perdere memoria delle basi.
 
-  
 ## Come
 
 ### Imparare facendo
 
-L’esperienza è alla base della conoscenza.  
+L’esperienza è alla base della conoscenza.
 
-  
-### Continuare a fare (e farsi) domande  
+### Continuare a fare (e farsi) domande
 
 La curiosità è all’origine delle scoperte
 L’ingenuità è all’origine di molte invenzioni e scoperte.
-Le idee e le *cose* migliori partorite dall’umanità sono (quasi?) sempre state frutto di un processo di creazione disinteressato, animato dalla pura curiosità intellettuale o dall’aspirazione a fare qualcosa di utile, di positivo, di bello, senza necessariamente un tornaconto economico o materiale, ripagato semmai da una soddisfazione morale o intellettuale.
-  
-### Al fianco della scuola e delle famiglie
+Le idee e le _cose_ migliori partorite dall’umanità sono (quasi?) sempre state frutto di un processo di creazione disinteressato, animato dalla pura curiosità intellettuale o dall’aspirazione a fare qualcosa di utile, di positivo, di bello, senza necessariamente un tornaconto economico o materiale, ripagato semmai da una soddisfazione morale o intellettuale.
 
-La scuola di oggi non ha le risorse e gli strumenti per affrontare da sola questa sfida.  
-Le famiglie non hanno i mezzi, il tempo, le conoscenze.  
-  
 ### Oltre i confini delle discipline
 
 Vogliamo proporre esperienze _trasversali_, ad esempio seguendo un ideale percorso di apprendimento che ripercorre le tappe con cui si è sviluppato il sapere e il saper fare dell’umanità nel corso dei millenni.
 
-  
 ### Favorire la pluralità di punti di vista
 
 Vogliamo contrastare l’appiattimento sulle posizioni prevalenti, in campo culturale, ideologico, tecnologico, mantenendo vivo l’interesse per varie forme di alternative.
@@ -101,68 +91,116 @@ In tutti i campi, la mancanza di alternative rispetto a soluzioni dominanti crea
 
 Alcuni esempi
 
-- in agricoltura si perdono varierà considerate poco competitive in favore di poche specie ritenute più redditizie, che sul lungo termine portano a vulnerabilità e richiedono il ricorso a pesticidi o fitofarmaci
-- In campo tecnologico, lo sviluppo indirizzato in una sola direzione trascurando percorsi alternativi (NYT ricerca su AI in USA indirizzata tutta verso general AI trascurando altri filoni e conducendo potenzialmente a un vicolo cieco)
+-   in agricoltura si perdono varierà considerate poco competitive in favore di poche specie ritenute più redditizie, che sul lungo termine portano a vulnerabilità e richiedono il ricorso a pesticidi o fitofarmaci
+-   In campo tecnologico, lo sviluppo indirizzato in una sola direzione trascurando percorsi alternativi (NYT ricerca su AI in USA indirizzata tutta verso general AI trascurando altri filoni e conducendo potenzialmente a un vicolo cieco)
 
 Decentralizzare il controllo delle infrastrutture e dei processi.
 
-
 ## Percorsi e progetti
 
-Partendo dai primi passi nell'universo STEM per arrivare a creazioni di livello professionale, che si tratti di "_performance_" artistiche o di applicazioni di interesse pratico 
+Partendo dai primi passi nell'universo STEM per arrivare a creazioni di livello professionale, che si tratti di "_performance_" artistiche o di applicazioni di interesse pratico
 
 ### STEM
 
-- Physical computing
+-   Physical computing
 
 ### Agricoltura
 
-- Monitoraggio piante
-- Cyber-serra
+-   Monitoraggio piante
+-   Cyber-serra
 
 ### Cultura nicese
 
-- Vocabolario digitale del dialetto nicese
-  
-  + italiano - nicese
-  + inglese - nicese
+-   Vocabolario digitale del dialetto nicese
 
-- Traduttore dialetto nicese: sito web e app per dispositivi mobili
+    -   italiano - nicese
+    -   inglese - nicese
 
+-   Traduttore dialetto nicese: sito web e app per dispositivi mobili
 
 ## Spazi
 
-### Fisici
+- Spazi fisici
 
-Reception
+  - Reception
 
-Sala riunioni (capienza 20 persone)
+  - Sala riunioni e corsi (capienza 20 persone)
 
-Area Coworking
+  - Area Coworking
 
-Laboratorio Computer
+  - Laboratorio Computer
 
-Laboratorio Maker
+  - Laboratorio Maker
 
-Saletta brainstorming
+  - Saletta di lettura con piccola biblioteca (sì, anche con libri di carta)
 
-Saletta di lettura con piccola biblioteca (con libri di carta)
+  - Angolo relax con piccola cucina 
 
-Angolo relax con piccola cucina
+- Spazi virtuali
 
-### Virtuali
+  - Biblioteca digitale
 
-Biblioteca digitale
+  - Repository GitHub (progetti della community)
 
-Repository GitHub (progetti della community)
+  - Sito web / blog / social
 
-Sito web / blog / social
 
 ## Attrezzature
 
+Dotazione iniziale di attrezzature, che potrà essere ampliata successivamente in base alle necessità.
 
-[Attrezzature](./Attrezzature.md)
-[Budget attrezzature](./Materiale x Lab.pdf)
+- postazione per coding, modellazione 3d, ecc ( 2x )
+
+- postaziione prototipazione (stazione saldatura a stagno, utensili, schede di sviluppo, multimetro, ecc.)
+
+- schede di sviluppo e componenti per attività STEM
+
+- stampante 3d
+
+- macchina per taglio laser / incisione 
+
+- scanner 3d
+
+Per maggiori dettagli si veda il documento [Attrezzature](./Attrezzature.md).
+
+Una valutazione indicativa dei costi fissi e ricorrenti per l'acquisizione e il mantenimento delle attrezzature è contenuta nel documento [Materiale x Lab](./Materiale x Lab.pdf).
+
+
+## Modello di Gestione
+
+- Comune di Nizza: mette a disposizione le strutture (ex mattatoio)?
+- NizzaCoworking APS ETS: associazione costituita con la finalità di gestire i locali e contribuire al funzionamento della struttura mediante le prestazioni dei volontari e gli introiti derivanti dalla gestione delle postazioni di coworking e delle attrezzature del laboratorio
+- Fondazione Palearum Lab (?)
+
+### Partner tecnici
+
+- Ultimo Byte: dominio, email, software gestionale
+- Soft Olivetti: hardware  
+- Dewesoft / Leane International: sistemi di acquisizione dati e sensori
+- The MKS: supporto informatico e tutoring (Git, Linux, coding)
+
+### Associazioni ed Enti locali
+
+Le associazioni del territorio possono attivare collaborazioni, suggerire e partecipare a progetti svolti presso il *PalearumLab*.
+
+- ATPICA
+- Accademia di cultura nicese L'ERCA
+- ProLoco di Nizza Monferrato
+- Fondazione Oratorio  
+- Istituto Nicola Pellati
+- Scuola media statale C.A. Dalla Chiesa
+- INSG
+
+### Aziende
+
+Aziende locali con vocazione all'innovazione e attenzione allo sviluppo a 360 gradi delterritorio possono contribuire attivamente al mantenimento e al funzionamento della struttura, potendo attingere a servizi, competenze, attrezzature
+
+- Arol  
+- Sinergo  
+- Distillerie Berta  
+- Biglia  
+- Tekno  
+
 
 
 ## Riferimenti
@@ -182,8 +220,4 @@ Sito web / blog / social
 [Lab121 Alessandria](https://www.lab121.org)
 
 [Raspberry Foundation position paper](https://static.raspberrypi.org/files/about/Why-kids-still-need-to-learn-to-code-in-the-age-of-AI-2025-Raspberry-Pi-Foundation-position-paper.pdf)
-  
-  
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2NjE1MzEzMV19
--->
+

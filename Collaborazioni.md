@@ -3,7 +3,8 @@
 ## Gestione
 
 - Comune di Nizza: mette a disposizione le strutture (ex mattatoio)?
-- NizzaCoworking: APS che gestisce i locali e contribuisce al funzionamento mediante gli introiti derivanti dalle postazioni di coworking
+- NizzaCoworking APS ETS: associazione costituita con la finalità di gestire i locali e contribuire al funzionamento della struttura mediante le prestazioni dei volontari e gli introiti derivanti dalla gestione delle postazioni di coworking e delle attrezzature del laboratorio
+- Fondazione Palearum Lab (?)
 
 ## Partner tecnici
 

@@ -11,10 +11,10 @@
 - Potenza: 60W 
 - Materiali: organici e plastici, no metallici
 - Formato: .dxf, .jpg; .png
-- Utilizzi: lavorazioni e incisioni su legno, plexiglass, vetro e marmo; lavorazioni con stoffe, tessuti e pelle; realizzazione dime per strass; articoli promozionali (penne, matite, cucchiai, portachiavi), timbri, targhe e medagliette in alluminio…
+- Utilizzi: lavorazioni e incisioni su legno, plexiglass, vetro e marmo; lavorazioni con stoffe, tessuti e pelle; realizzazione dime per strass; articoli promozionali, timbri, targhe e medagliette in alluminio…
 
 
-## FRESA CNC
+## FRESA CNC da banco
 
 Da definire
 
