@@ -33,7 +33,12 @@ _"Il FabLab è tante cose, diverse tra di loro, non necessariamente perfettament
  
 ### Un nuovo umanesimo
 
+Rimettere l'essere umano al centro dell'idea di sviluppo, orientando le scelte in base alle ricadute che avranno sulla vita delle persone e delle comunità nel breve e nel lungo periodo è essenziale. 
 
+_“Lo sviluppo è la #libertà  di **essere**  e di **fare**.”_ (Amartya #Sen , economista Premio Nobel)
+In queste parole è racchiuso tutto ciò che ogni bambino dovrebbe trovare nella propria vita: la libertà di crescere secondo i propri talenti, non secondo i limiti del contesto in cui nasce.
+
+Una parte importante di questo percorso passa attraverso una _nuova alfabetizzazione_.
 
 ### Una nuova alfabetizzazione
    
@@ -44,7 +49,8 @@ Chi oggi non ha idea di come funzionano “dietro allo schermo” un computer (u
 Non è necessario diventare esperti, ma occorre avere almeno qualche nozione di base per comprendere a livello generale come funzionano questi sistemi che fanno parte integrante del nostro mondo. 
 Avvicinarsi al “coding” e al “Physical computing” può essere un modo creativo e divertente per creare queste basi [8].
 
-  
+Un'altra parte forse altrettanto importante consiste nel mantenere l'identità della nostra comunità, che per molti significa 
+
 ### Riscoprire le origini
 
 Per capire dove vogliamo andare dobbiamo sapere da dove veniamo, conoscere la nostra storia e le nostre radici. L’evoluzione della società, la crescente specializzazione delle professioni e delle conoscenze, il cambiamento dei modelli di vita e dell’organizzazione famigliare ci ha portato a perdere molte conoscenze e competenze che, pur non essendo più strettamente necessarie per la vita quotidiana, restano comunque parte della tradizione e alla base della nostra cultura.
@@ -78,15 +84,18 @@ La curiosità è all’origine delle scoperte
 L’ingenuità è all’origine di molte invenzioni e scoperte.
 Le idee e le *cose* migliori partorite dall’umanità sono (quasi?) sempre state frutto di un processo di creazione disinteressato, animato dalla pura curiosità intellettuale o dall’aspirazione a fare qualcosa di utile, di positivo, di bello, senza necessariamente un tornaconto economico o materiale, ripagato semmai da una soddisfazione morale o intellettuale.
   
-### Al fianco della scuola e delle famiglie  
+### Al fianco della scuola e delle famiglie
+
 La scuola di oggi non ha le risorse e gli strumenti per affrontare da sola questa sfida.  
 Le famiglie non hanno i mezzi, il tempo, le conoscenze.  
   
-### Oltre i confini delle discipline  
+### Oltre i confini delle discipline
+
 Vogliamo proporre esperienze _trasversali_, ad esempio seguendo un ideale percorso di apprendimento che ripercorre le tappe con cui si è sviluppato il sapere e il saper fare dell’umanità nel corso dei millenni.
 
   
-### Favorire la pluralità di punti di vista  
+### Favorire la pluralità di punti di vista
+
 Vogliamo contrastare l’appiattimento sulle posizioni prevalenti, in campo culturale, ideologico, tecnologico, mantenendo vivo l’interesse per varie forme di alternative.
 In tutti i campi, la mancanza di alternative rispetto a soluzioni dominanti crea vulnerabilit a livello di sistema, che sfuggono a una visione di breve periodo.
 
@@ -99,6 +108,7 @@ Decentralizzare il controllo delle infrastrutture e dei processi.
 
 
 ## Percorsi e progetti
+
 Partendo dai primi passi nell'universo STEM per arrivare a creazioni di livello professionale, che si tratti di "_performance_" artistiche o di applicazioni di interesse pratico 
 
 ### STEM
@@ -147,6 +157,12 @@ Biblioteca digitale
 Repository GitHub (progetti della community)
 
 Sito web / blog / social
+
+## Attrezzature
+
+
+[Attrezzature](./Attrezzature.md)
+[Budget attrezzature](./Materiale x Lab.pdf)
 
 
 ## Riferimenti
