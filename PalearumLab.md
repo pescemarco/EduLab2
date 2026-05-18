@@ -25,7 +25,7 @@ Qui trovi gli spazi, gli strumenti e le persone di cui hai bisogno per trasforma
 
 Un altro esempio di FabLab vicino al nostro territorio è costituito da [FabLab di lab121](https://www.lab121.org/fablab-alessandria/) ad Alessandria
 
-_"Il FabLab è tante cose, diverse tra di loro, non necessariamente perfettamente sincronizzate. Il FabLab è uno spazio aperto al pubblico, un luogo di socializzazione e incontro. È un luogo di produzione attraverso l’utilizzo di un set di macchine standard che consente la progettazione, prototipazione e realizzazione, attraverso la stampa 3D, di oggetti e manufatti. È un luogo di ricerca, di svago, di relazione. Un po’ officina, un po’ laboratorio di ricerca e sviluppo, un po’ centro sociale, il FabLab è un network di realtà presenti in decine di paesi al mondo, da Parigi a New York passando per Kabul fino a Pavia e Parma. Il FabLab è un luogo sempre uguale a se stesso, le macchine devono essere quelle previste, ma inevitabilmente diverso a seconda del territorio e della comunità che lo ospita. Nato presso l’MIT di Boston, grazie al lavoro seminale di Neil Gershenfeld, fonda la sua forza sulla filosofia di azione locale attraverso un network internazionale di scambio e conoscenza. Vuole favorire la creatività e il DIY (do it yourself) attraverso l’accessibilità per tutti alle macchine di fabbricazione digitale e promuove un nuovo modello di impresa diffusa, legata al territorio fortemente sociale (non a caso si parla di Open Manufacturing e di Quarta Rivoluzione industriale)."_
+_"Il FabLab è tante cose, diverse tra di loro, non necessariamente perfettamente sincronizzate. Il FabLab è uno spazio aperto al pubblico, un luogo di socializzazione e incontro. È un luogo di produzione attraverso l’utilizzo di un set di macchine standard che consente la progettazione, prototipazione e realizzazione, attraverso la stampa 3D, di oggetti e manufatti. È un luogo di ricerca, di svago, di relazione. Un po’ officina, un po’ laboratorio di ricerca e sviluppo, un po’ centro sociale, il FabLab è un network di realtà presenti in decine di paesi al mondo."_
 
 ## Perché PalearumLab
 
@@ -38,6 +38,7 @@ In queste parole è racchiuso tutto ciò che ogni bambino dovrebbe trovare nella
 
 Una parte importante di questo percorso passa attraverso una _nuova alfabetizzazione_.
 
+
 ### Una nuova alfabetizzazione
 
 La rivoluzione digitale ha lasciato indietro molte perone e tante altre, tra cui moltissimi giovani, rischiano di essere lasciate indietro.  
@@ -47,14 +48,31 @@ Chi oggi non ha idea di come funzionano “dietro allo schermo” un computer (u
 Non è necessario diventare esperti, ma occorre avere almeno qualche nozione di base per comprendere a livello generale come funzionano questi sistemi che fanno parte integrante del nostro mondo.
 Avvicinarsi al “coding” e al “Physical computing” può essere un modo creativo e divertente per creare queste basi [8].
 
-Un'altra parte forse altrettanto importante consiste nel mantenere l'identità della nostra comunità, che per molti significa
+Un'altra parte forse altrettanto importante consiste nel mantenere, in certi casi *riscoprire*, l'identità della nostra comunità, del nostro territorio.
+
 
 ### Riscoprire le origini
 
 Per capire dove vogliamo andare dobbiamo sapere da dove veniamo, conoscere la nostra storia e le nostre radici. L’evoluzione della società, la crescente specializzazione delle professioni e delle conoscenze, il cambiamento dei modelli di vita e dell’organizzazione famigliare ci ha portato a perdere molte conoscenze e competenze che, pur non essendo più strettamente necessarie per la vita quotidiana, restano comunque parte della tradizione e alla base della nostra cultura.
 in particolare alcune capacità manuali, che erano largamente diffuse tra i nostri nonni e bisnonni e che oggi sono _patrimonio_ di pochi.
 Capacità, conoscenze pratiche che sono state per centinaia di anni patrimonio comune sono state praticamente azzerate nell’arco di pochi decenni. Rammendare, lavorare a maglia, fare l’impasto per il pane, riparare un utensile rotto, accendere il fuoco nel camino o nella stufa erano attività necessarie per la sopravvivenza, poi divenute solamente utili e infine semplicemente non più necessarie nella vita quotidiana della maggior parte di noi, e quindi destinate a perdersi nella memoria.
-Se da un lato queste competenze sono anacronistiche, d'altra parte rappresentano le basi di un saper fare che . . .
+Se da un lato queste competenze sono superate, d'altra parte rappresentano le basi di un saper fare che è parte della nostra storia, e quindi di ciò che siamo oggi.
+
+
+
+## Come
+
+### Imparare facendo, 
+
+L’esperienza è alla base della conoscenza. Provando a fare si sbaglia, provando ancora si impara, si migliora, si costruisce il saper fare, un passo alla volta.
+
+Vogliamo proporre esperienze *trasversali*, superando le barriere tra le discipline scolastiche per ripercorrere magari qualche tappa del percorso attraverso il quale si è sviluppato il sapere e il saper fare della nostra civiltànel corso dei millenni.
+Vogliamo farlo in modi diversi, utilizzando strumenti e tecnologie di oggi, per riscoprire la bellezza e la grandiosità del nostro passato, alimentando
+
+La curiosità è all’origine delle scoperte
+L’ingenuità è all’origine di molte invenzioni e scoperte.
+Le idee e le _cose_ migliori partorite dall’umanità sono (quasi?) sempre state frutto di un processo di creazione disinteressato, animato dalla pura curiosità intellettuale o dall’aspirazione a fare qualcosa di utile, di positivo, di bello, senza necessariamente un tornaconto economico o materiale, ripagato semmai da una soddisfazione morale o intellettuale.
+
 
 ### Valorizzare il passato e le esperienze di base
 
@@ -68,26 +86,13 @@ Queste esperienze costituiscono un patrimonio da salvaguardare, come la scoperta
 In tutto ciò è difficile avere una visione d’insieme e forse questo è il limite da superare per arrivare a nuove intuizioni e scoperte di portata rivoluzionaria come lo sono state la teoria dell’elettromagnetismo, la teoria della relatività generale o la meccanica quantistica.
 In tutto ciò è fondamentale non perdere memoria delle basi.
 
-## Come
 
-### Imparare facendo
+### Valorizzare le tipicità locali e la pluralità di punti di vista
 
-L’esperienza è alla base della conoscenza.
+La *diversità* è ciò che rende il mondo interessante, stimola la curiosità, le relazioni, il desiderio di scoperta. Senza diversità non c'è possibilità di confronto, non c'è scambio di idee.
+In un mondo sempre più "piccolo" e globalizzato c'è il rischio di appiattirsi su modelli convenzionali prevalenti, in campo culturale, ideologico, tecnologico, sociale.
 
-### Continuare a fare (e farsi) domande
-
-La curiosità è all’origine delle scoperte
-L’ingenuità è all’origine di molte invenzioni e scoperte.
-Le idee e le _cose_ migliori partorite dall’umanità sono (quasi?) sempre state frutto di un processo di creazione disinteressato, animato dalla pura curiosità intellettuale o dall’aspirazione a fare qualcosa di utile, di positivo, di bello, senza necessariamente un tornaconto economico o materiale, ripagato semmai da una soddisfazione morale o intellettuale.
-
-### Oltre i confini delle discipline
-
-Vogliamo proporre esperienze _trasversali_, ad esempio seguendo un ideale percorso di apprendimento che ripercorre le tappe con cui si è sviluppato il sapere e il saper fare dell’umanità nel corso dei millenni.
-
-### Favorire la pluralità di punti di vista
-
-Vogliamo contrastare l’appiattimento sulle posizioni prevalenti, in campo culturale, ideologico, tecnologico, mantenendo vivo l’interesse per varie forme di alternative.
-In tutti i campi, la mancanza di alternative rispetto a soluzioni dominanti crea vulnerabilit a livello di sistema, che sfuggono a una visione di breve periodo.
+In tutti i campi, l'adozione di soluzioni standardizzate la mancanza di alternative rispetto a soluzioni dominanti crea vulnerabilità a livello di sistema, che sfuggono a una visione di breve periodo.
 
 Alcuni esempi
 
@@ -98,7 +103,8 @@ Decentralizzare il controllo delle infrastrutture e dei processi.
 
 ## Percorsi e progetti
 
-Partendo dai primi passi nell'universo STEM per arrivare a creazioni di livello professionale, che si tratti di "_performance_" artistiche o di applicazioni di interesse pratico
+Partendo dai primi passi nell'universo STEM per arrivare a creazioni di livello professionale, che si tratti di "_performance_" artistiche o di applicazioni di interesse pratico.
+Ecco alcuni esempi.
 
 ### STEM
 
