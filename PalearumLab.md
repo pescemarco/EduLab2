@@ -27,6 +27,7 @@ Un altro esempio di FabLab vicino al nostro territorio è costituito da [FabLab 
 
 _"Il FabLab è tante cose, diverse tra di loro, non necessariamente perfettamente sincronizzate. Il FabLab è uno spazio aperto al pubblico, un luogo di socializzazione e incontro. È un luogo di produzione attraverso l’utilizzo di un set di macchine standard che consente la progettazione, prototipazione e realizzazione, attraverso la stampa 3D, di oggetti e manufatti. È un luogo di ricerca, di svago, di relazione. Un po’ officina, un po’ laboratorio di ricerca e sviluppo, un po’ centro sociale, il FabLab è un network di realtà presenti in decine di paesi al mondo."_
 
+
 ## Perché PalearumLab
 
 ### Un nuovo umanesimo
@@ -36,33 +37,37 @@ Rimettere l'essere umano al centro dell'idea di sviluppo, orientando le scelte i
 _“Lo sviluppo è la #libertà di **essere** e di **fare**.”_ (Amartya #Sen , economista Premio Nobel)
 In queste parole è racchiuso tutto ciò che ogni bambino dovrebbe trovare nella propria vita: la libertà di crescere secondo i propri talenti, non secondo i limiti del contesto in cui nasce.
 
-Una parte importante di questo percorso passa attraverso una _nuova alfabetizzazione_.
+Una parte importante di questo percorso passa attraverso una *nuova alfabetizzazione*.
 
 
 ### Una nuova alfabetizzazione
 
 La rivoluzione digitale ha lasciato indietro molte perone e tante altre, tra cui moltissimi giovani, rischiano di essere lasciate indietro.  
-Se da un lato quasi tutti utilizzano abitualmente Internet, motori di ricerca o, ancor dí più, social network e applicazioni di _comunicazione_ online (da Whatsapp a Instagram a TikTok), d’altro lato quasi nessuno conoscere le basi di questa tecnologia che sta pervadendo ogni aspetto della società e della nostra esistenza. Occorre conoscere le basi su cui si regge questa tecnologia affinché possiamo imparare ad utilizzarla consapevolmente e vantaggiosamente (non necessariamente in termini economici) anziché adagiarvisi passivamente, a dominarla anziché a subirne gli effetti.  
-Si tratta di fare scelte più consapevoli e provare ad immaginare come dovrebbe essere il mondo che vogliamo anzichè lasciare che pochi altri lo facciano per noi, a causa della nostra _ignoranza_.  
-Chi oggi non ha idea di come funzionano “dietro allo schermo” un computer (uno smartphone è un computer), internet, le piattaforme social, l’intelligenza artificiale non può compiere scelte consapevoli.  
-Non è necessario diventare esperti, ma occorre avere almeno qualche nozione di base per comprendere a livello generale come funzionano questi sistemi che fanno parte integrante del nostro mondo.
-Avvicinarsi al “coding” e al “Physical computing” può essere un modo creativo e divertente per creare queste basi [8].
+Se da un lato quasi tutti utilizzano abitualmente Internet, motori di ricerca o, ancor dí più, social network e applicazioni di *comunicazione* online (da Whatsapp a Instagram a TikTok), d’altro lato quasi nessuno conoscere le basi di questa tecnologia che sta pervadendo ogni aspetto della società e della nostra esistenza. Occorre conoscere le basi su cui si regge questa tecnologia affinché possiamo imparare ad utilizzarla consapevolmente e vantaggiosamente (non necessariamente in termini economici) anziché adagiarvisi passivamente, a dominarla anziché a subirne gli effetti.  
+Si tratta di fare scelte più consapevoli e provare ad immaginare come dovrebbe essere il mondo che vogliamo anzichè lasciare che pochi altri lo facciano per noi.
 
-Un'altra parte forse altrettanto importante consiste nel mantenere, in certi casi *riscoprire*, l'identità della nostra comunità, del nostro territorio.
+Per questo è necessario che i cittadini del nostro tempo abbiano idea di come funziona "dietro allo schermo” un computer (uno smartphone è un computer), internet, le piattaforme social, l’intelligenza artificiale: "cose", strumenti, applicazioni che fanno parte della nostra vita quotidiana, che hanno plasmato la nostra società negli ultimi decenni, che continueranno a farlo in misura crescente negli anni a venire, ma nella maggior parte dei casi vengono utilizzate con superficialità o in misura molto limitata rispetto alle potenzialità.
+
+Avvicinarsi al “coding” e al “Physical computing” può essere un modo stimolante e divertente per conoscere e utilizzare in modo consapevole, produttivo, utile, creativo queste tecnologie [8].
+
+Un'altra parte forse altrettanto importante del percorso verso il nuovo umanesimo consiste nel mantenere, in certi casi *riscoprire*, l'identità della nostra comunità, del nostro territorio.
 
 
 ### Riscoprire le origini
 
-Per capire dove vogliamo andare dobbiamo sapere da dove veniamo, conoscere la nostra storia e le nostre radici. L’evoluzione della società, la crescente specializzazione delle professioni e delle conoscenze, il cambiamento dei modelli di vita e dell’organizzazione famigliare ci ha portato a perdere molte conoscenze e competenze che, pur non essendo più strettamente necessarie per la vita quotidiana, restano comunque parte della tradizione e alla base della nostra cultura.
-in particolare alcune capacità manuali, che erano largamente diffuse tra i nostri nonni e bisnonni e che oggi sono _patrimonio_ di pochi.
-Capacità, conoscenze pratiche che sono state per centinaia di anni patrimonio comune sono state praticamente azzerate nell’arco di pochi decenni. Rammendare, lavorare a maglia, fare l’impasto per il pane, riparare un utensile rotto, accendere il fuoco nel camino o nella stufa erano attività necessarie per la sopravvivenza, poi divenute solamente utili e infine semplicemente non più necessarie nella vita quotidiana della maggior parte di noi, e quindi destinate a perdersi nella memoria.
-Se da un lato queste competenze sono superate, d'altra parte rappresentano le basi di un saper fare che è parte della nostra storia, e quindi di ciò che siamo oggi.
+Per capire dove vogliamo andare dobbiamo sapere da dove veniamo, conoscere la nostra storia e le nostre radici. L’evoluzione della società, la crescente specializzazione delle professioni e delle conoscenze, il cambiamento dei modelli di vita e dell’organizzazione famigliare hanno inevitabilmente portato la perdita di altre conoscenze e competenze che, pur non essendo più strettamente necessarie per la vita quotidiana, restano comunque parte importante della nostra tradizione e della nostra cultura.
+
+Competenze, conoscenze pratiche che sono state per centinaia di anni patrimonio comune sono state praticamente azzerate nell’arco di pochi decenni. Riparare un utensile danneggiato, accendere il fuoco nel camino o nella stufa, rammendare, lavorare a maglia, fare l’impasto per il pane, erano attività necessarie per la sopravvivenza, poi divenute solamente utili e infine semplicemente non più necessarie nella vita quotidiana della maggior parte di noi, e quindi destinate a perdersi nella memoria.
+
+Queste competenze, ormai superate nella vita quotidiana, sono pur sempre alla base di molti cicli produttivi, che le hanno fatte proprie e integrate a livello industriale, inglobandole in apparati tecnologici dove continuano a vivere nascoste all'apparenza della maggior parte di noi.
+
+Riscoprire una parte di questo "saper fare", riportandolo nella dimensione umana del quotidiano, può sicuramente contribuire a stimolare la creatività e l'ingegno delle nuove generazioni.
 
 
 
 ## Come
 
-### Imparare facendo, 
+### Imparare facendo
 
 L’esperienza è alla base della conoscenza. Provando a fare si sbaglia, provando ancora si impara, si migliora, si costruisce il saper fare, un passo alla volta.
 
@@ -71,10 +76,12 @@ Vogliamo farlo in modi diversi, utilizzando strumenti e tecnologie di oggi, per 
 
 La curiosità è all’origine delle scoperte
 L’ingenuità è all’origine di molte invenzioni e scoperte.
-Le idee e le _cose_ migliori partorite dall’umanità sono (quasi?) sempre state frutto di un processo di creazione disinteressato, animato dalla pura curiosità intellettuale o dall’aspirazione a fare qualcosa di utile, di positivo, di bello, senza necessariamente un tornaconto economico o materiale, ripagato semmai da una soddisfazione morale o intellettuale.
+Le idee e le _cose_ migliori partorite dall’umanità sono (quasi?) sempre state frutto di un processo di creazione disinteressato, animato dalla pura curiosità intellettuale o dall’aspirazione a fare qualcosa di utile, di positivo, di bello, senza necessariamente un tornaconto economico o materiale, ripagato piuttosto da una soddisfazione morale o intellettuale.
 
 
-### Valorizzare il passato e le esperienze di base
+### Riscoprire il passato e le esperienze di base
+
+*Da rivedere, ripete in parte quanto già detto sopra*
 
 “Siamo nani sulle spalle di giganti”. Questa idea suggerita anticamente da Prisciano nel V secolo secondo U. Eco, ripresa da Bertrando di Chartres nel XII, e da Isaac Newton, non fa parte del nostro sentire.
 Non ci ricordiamo (a livello collettivo) chi eravamo e da dove veniamo, perdiamo pezzi di conoscenza e di coscienza collettiva.
@@ -88,6 +95,8 @@ In tutto ciò è fondamentale non perdere memoria delle basi.
 
 
 ### Valorizzare le tipicità locali e la pluralità di punti di vista
+
+*Work in progress*
 
 La *diversità* è ciò che rende il mondo interessante, stimola la curiosità, le relazioni, il desiderio di scoperta. Senza diversità non c'è possibilità di confronto, non c'è scambio di idee.
 In un mondo sempre più "piccolo" e globalizzato c'è il rischio di appiattirsi su modelli convenzionali prevalenti, in campo culturale, ideologico, tecnologico, sociale.
@@ -169,7 +178,7 @@ Dotazione iniziale di attrezzature, che potrà essere ampliata successivamente i
 
 Per maggiori dettagli si veda il documento [Attrezzature](./Attrezzature.md).
 
-Una valutazione indicativa dei costi fissi e ricorrenti per l'acquisizione e il mantenimento delle attrezzature è contenuta nel documento [Materiale x Lab](./Materiale x Lab.pdf).
+Una valutazione indicativa dei costi fissi e ricorrenti per l'acquisizione e il mantenimento delle attrezzature è contenuta nel documento [Materiale x Lab](./Materiale-x-Lab.pdf).
 
 
 ## Modello di Gestione
@@ -183,7 +192,7 @@ Una valutazione indicativa dei costi fissi e ricorrenti per l'acquisizione e il 
 - Ultimo Byte: dominio, email, software gestionale
 - Soft Olivetti: hardware  
 - Dewesoft / Leane International: sistemi di acquisizione dati e sensori
-- The MKS: supporto informatico e tutoring (Git, Linux, coding)
+- Marco Salis "The MKS": supporto informatico e tutoring (Git, Linux, coding)
 
 ### Associazioni ed Enti locali
 
