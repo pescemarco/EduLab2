@@ -1,4 +1,6 @@
-# PalearumLab (un po’ FabLab un po’ …)
+# PalearumLab
+
+***(un po’ FabLab un po’ …)***
 
 ## Cos’è
 
@@ -9,19 +11,16 @@ Dove si può anche andare a “fare un giro” e vedere chi c’ė e trascorrere
 
 ### Cos'è un FabLab
 
-L'idea del _Fabrication Laboratory_, nata presso il MIT di Boston grazie al lavoro di Neil Gershenfeld, si fonda sulla filosofia di azione locale attraverso un network internazionale di scambio e conoscenza. Vuole favorire la creatività e il DIY (do it yourself) attraverso l’accessibilità per tutti alle macchine di fabbricazione digitale e promuove un nuovo modello di impresa diffusa, legata al territorio, fortemente sociale.
+L'idea del *(digital) Fabrication Laboratory*, nata presso il MIT di Boston, si fonda sulla filosofia di azione locale attraverso un network internazionale di scambio e conoscenza. Vuole favorire la creatività e il DIY (do it yourself) attraverso l’accessibilità per tutti alle macchine di fabbricazione digitale e promuove un nuovo modello di impresa diffusa, legata al territorio, fortemente sociale.
 
 I principi del FabLab sono contenuti nella [Fab charter MIT](https://fab.cba.mit.edu/about/) che costituisce il "manifesto" della rete dei FabLab.
 
 L'Italia entra nella rete internazionale FabLab nel 2011 grazie a [FabLab Torino](https://fablabtorino.org/)
 
-_"Il primo laboratorio di fabbricazione digitale italiano apre a Torino nel 2011 con il nome di Fablab Italia,
-in occasione della mostra Stazione Futuro alle Officine Grandi Riparazioni per i 150 anni dell'Unità d'Italia.
-Nel 2012 il laboratorio viene riaperto, questa volta in pianta stabile, negli spazi di Toolbox Coworking:
-nasce Fablab Torino!"_
+*”Il primo laboratorio di fabbricazione digitale italiano apre a Torino nel 2011 con il nome di Fablab Italia, in occasione della mostra Stazione Futuro alle Officine Grandi Riparazioni per i 150 anni dell'Unità d'Italia. Nel 2012 il laboratorio viene riaperto, questa volta in pianta stabile, negli spazi di Toolbox Coworking: nasce Fablab Torino!”* 
 
-_"Fablab Torino è un’associazione culturale, un laboratorio di fabbricazione digitale e un makerspace.
-Qui trovi gli spazi, gli strumenti e le persone di cui hai bisogno per trasformare i tuoi progetti in realtà."_
+
+*"Fablab Torino è un’associazione culturale, un laboratorio di fabbricazione digitale e un makerspace. Qui trovi gli spazi, gli strumenti e le persone di cui hai bisogno per trasformare i tuoi progetti in realtà."*
 
 Un altro esempio di FabLab vicino al nostro territorio è costituito da [FabLab di lab121](https://www.lab121.org/fablab-alessandria/) ad Alessandria
 
@@ -34,8 +33,8 @@ _"Il FabLab è tante cose, diverse tra di loro, non necessariamente perfettament
 
 Rimettere l'essere umano al centro dell'idea di sviluppo, orientando le scelte in base alle ricadute che avranno sulla vita delle persone e delle comunità nel breve e nel lungo periodo è essenziale.
 
-_“Lo sviluppo è la #libertà di **essere** e di **fare**.”_ (Amartya #Sen , economista Premio Nobel)
-In queste parole è racchiuso tutto ciò che ogni bambino dovrebbe trovare nella propria vita: la libertà di crescere secondo i propri talenti, non secondo i limiti del contesto in cui nasce.
+*”Lo sviluppo è la #libertà di **essere** e di **fare**.”* (Amartya #Sen , economista Premio Nobel)
+In queste parole è racchiuso tutto ciò che ogni essere umano, a cominciare dai bambini, dovrebbe trovare nella propria vita: la libertà di crescere secondo i propri talenti, non secondo i limiti del contesto in cui nasce.
 
 Una parte importante di questo percorso passa attraverso una *nuova alfabetizzazione*.
 
@@ -76,7 +75,7 @@ Vogliamo farlo in modi diversi, utilizzando strumenti e tecnologie di oggi, per 
 
 La curiosità è all’origine delle scoperte
 L’ingenuità è all’origine di molte invenzioni e scoperte.
-Le idee e le _cose_ migliori partorite dall’umanità sono (quasi?) sempre state frutto di un processo di creazione disinteressato, animato dalla pura curiosità intellettuale o dall’aspirazione a fare qualcosa di utile, di positivo, di bello, senza necessariamente un tornaconto economico o materiale, ripagato piuttosto da una soddisfazione morale o intellettuale.
+Le idee e le *cose* migliori partorite dall’umanità sono (quasi?) sempre state frutto di un processo di creazione disinteressato, animato dalla pura curiosità intellettuale o dall’aspirazione a fare qualcosa di utile, di positivo, di bello, senza necessariamente un tornaconto economico o materiale, ripagato piuttosto da una soddisfazione morale o intellettuale.
 
 
 ### Riscoprire il passato e le esperienze di base
@@ -86,12 +85,12 @@ Le idee e le _cose_ migliori partorite dall’umanità sono (quasi?) sempre stat
 “Siamo nani sulle spalle di giganti”. Questa idea suggerita anticamente da Prisciano nel V secolo secondo U. Eco, ripresa da Bertrando di Chartres nel XII, e da Isaac Newton, non fa parte del nostro sentire.
 Non ci ricordiamo (a livello collettivo) chi eravamo e da dove veniamo, perdiamo pezzi di conoscenza e di coscienza collettiva.
 
-Il _corpus_ di conoscenze accumulate dall’umanità non è più contemplabile dalla mente di un singolo individuo.
+L’insieme delle conoscenze accumulate dall’umanità nei millenni non è più contemplabile dalla mente di un singolo individuo.
 Il livello di specializzazione estrema nel percorso di studi e professionale rischia di far perdere di vista le basi della conoscenza.
 A molti di noi mancano le esperienze “primordiali” e le conoscenze pratiche di base che consentivano la sopravvivenza dei nostri antenati fino a poche generazioni addietro.
 Queste esperienze costituiscono un patrimonio da salvaguardare, come la scoperta del fuoco e l’invenzione della ruota sono state alla base del progresso tecnologico dell’umanità, un progresso dapprima molto lento e poi via via più veloce, dal momento che le nuove esperienze e conoscenze moltiplicavano la possibilità di sempre nuove esperienze e conoscenze con un ritmo esponenziale.
 In tutto ciò è difficile avere una visione d’insieme e forse questo è il limite da superare per arrivare a nuove intuizioni e scoperte di portata rivoluzionaria come lo sono state la teoria dell’elettromagnetismo, la teoria della relatività generale o la meccanica quantistica.
-In tutto ciò è fondamentale non perdere memoria delle basi.
+In tutto ciò è fondamentale non perdere memoria di come menti brillanti come Archimede, Talete, Copernico, Keplero, Galileo, Newton, con strumenti incredibilmente semplici e osservazioni limitate, siano arrivati a dedurre principi e leggi fisiche che hanno cambiato la storia.
 
 
 ### Valorizzare le tipicità locali e la pluralità di punti di vista
